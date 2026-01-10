@@ -1,4 +1,5 @@
-# HELLO GUYS
+#                                                                                             HELLO GUYS
+#                                                                                          I am Lekhraj Mahajan
 # 💫 About Me:
 I am a motivated and detail-oriented fresher Website Developer with a strong foundation in web technologies such as HTML, CSS, JavaScript, and modern frameworks. I have recently completed my academic training and have actively applied myself to projects that apply responsive designs, clean UI, and user-driven website concepts. I enjoy applying ideas to create functional and aesthetically pleasing websites while expanding my knowledge base with new tools and techniques for effective website development.<br><br>I picked Website Developer because it is a profession that balances creativity and logic to solve problems. Website development is a project that I get to work on to enable people to benefit from it on a day-to-day basis. This is one aspect that fascinates me about website development, especially from a front end side, considering that it has a direct influence on performance and usability.<br><br>I am a very apt candidate for the Website Developer position as I not only have prerequisites such as a certain grasp of web basics and eagerness to learn more, but I also practice coding discipline. Even though I am a fresher, my flexibility, eagerness, and openness to learning are assets. I am accustomed to working as a developer and receiving corrections on my code in terms of improving its efficiency, and my project-based learning qualifies me for this position.
 
@@ -13,8 +14,6 @@ I am a motivated and detail-oriented fresher Website Developer with a strong fou
 ![](https://nirzak-streak-stats.vercel.app/?user=LekhrajMahajan&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LekhrajMahajan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LekhrajMahajan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
